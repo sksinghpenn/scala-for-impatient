@@ -1,2 +1,2 @@
 # scala-for-Impatient
-# scala-for-impatient
+This is exercise work for the Scala for Impatient book: http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
